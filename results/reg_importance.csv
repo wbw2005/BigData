@@ -1,0 +1,10 @@
+feature,importance
+log_members,0.5726
+episodes_f,0.1206
+genre_cnt,0.0957
+type_TV,0.0193
+type_OVA,0.0439
+type_Movie,0.0468
+type_Special,0.0285
+type_ONA,0.0196
+type_Music,0.0531

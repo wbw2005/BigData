@@ -1,0 +1,21 @@
+cluster,cluster_label,rk,name,type,rating,members,episodes_f
+0,小众好评,1,Bikini Warriors,TV,5.34,35004,12.0
+0,小众好评,2,Pico to Chico,OVA,5.19,29463,1.0
+0,小众好评,3,Pico x CoCo x Chico,OVA,5.16,27411,1.0
+0,小众好评,4,Kowabon,TV,5.33,21026,13.0
+0,小众好评,5,Wagamama High Spec,TV,5.48,19984,12.0
+1,小众平庸·长篇连载,1,Naruto,TV,7.81,683297,220.0
+1,小众平庸·长篇连载,2,Bleach,TV,7.95,624055,300.0
+1,小众平庸·长篇连载,3,Naruto: Shippuuden,TV,7.94,533578,300.0
+1,小众平庸·长篇连载,4,One Piece,TV,8.58,504862,300.0
+1,小众平庸·长篇连载,5,Dragon Ball Z,TV,8.32,375662,291.0
+2,高热好评,1,Death Note,TV,8.71,1013917,37.0
+2,高热好评,2,Shingeki no Kyojin,TV,8.54,896229,25.0
+2,高热好评,3,Sword Art Online,TV,7.83,893100,25.0
+2,高热好评,4,Fullmetal Alchemist: Brotherhood,TV,9.26,793665,64.0
+2,高热好评,5,Angel Beats!,TV,8.39,717796,13.0
+3,小众平庸·短篇/剧场版,1,Pupa,TV,3.82,83652,12.0
+3,小众平庸·短篇/剧场版,2,Hametsu no Mars,OVA,2.37,27557,1.0
+3,小众平庸·短篇/剧场版,3,Makura no Danshi,TV,4.93,19386,12.0
+3,小众平庸·短篇/剧场版,4,Eiken: Eikenbu yori Ai wo Komete,OVA,4.65,15764,2.0
+3,小众平庸·短篇/剧场版,5,Ame-iro Cocoa,TV,4.8,14295,12.0

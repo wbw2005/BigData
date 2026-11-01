@@ -1,0 +1,21 @@
+cluster,cluster_label,rk,name,type,rating,members,episodes_f,dist
+0,小众好评,1,Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation,TV,6.51,1006,12.0,0.07593779245791163
+0,小众好评,2,Usavich V,TV,6.62,985,13.0,0.09099893180691485
+0,小众好评,3,BlazBlue: Alter Memory Specials,Special,6.54,952,6.0,0.09765823908763054
+0,小众好评,4,Catman Series II,ONA,6.49,755,8.0,0.10489329493922174
+0,小众好评,5,Catman Series III,TV,6.59,796,6.0,0.10577001466348486
+1,小众平庸·长篇连载,1,Show By Rock!! x Joysound,ONA,6.32,704,300.0,0.20791845114544488
+1,小众平庸·长篇连载,2,Future Card Buddyfight DDD,TV,6.39,912,300.0,0.21043551288934567
+1,小众平庸·长篇连载,3,Escha Chron,TV,,797,300.0,0.23802345095734817
+1,小众平庸·长篇连载,4,Tsukipro The Animation,TV,,843,300.0,0.238556673742539
+1,小众平庸·长篇连载,5,Idol Jihen,TV,,872,300.0,0.2400533144211467
+2,高热好评,1,Hiiro no Kakera Dai Ni Shou,TV,7.38,26617,13.0,0.027506437295192927
+2,高热好评,2,"Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music...",TV,7.46,25750,13.0,0.052769915087746436
+2,高热好评,3,Natsu no Arashi!,TV,7.4,30098,13.0,0.05815648757868183
+2,高热好评,4,Slayers Revolution,TV,7.37,23679,13.0,0.05874488952653763
+2,高热好评,5,Shounen Maid,TV,7.43,30363,12.0,0.06895743898898868
+3,小众平庸·短篇/剧场版,1,Momoya x Peeping Life: Go en Desu yo! II,ONA,5.15,169,5.0,0.02787883479917642
+3,小众平庸·短篇/剧场版,2,Classical Sex-Zone,OVA,5.15,159,3.0,0.04209171052042358
+3,小众平庸·短篇/剧场版,3,Channel 5.5 4th Season,ONA,5.13,191,4.0,0.06197672454876061
+3,小众平庸·短篇/剧场版,4,Seiyuu Deka,ONA,5.12,170,1.0,0.06722896858080207
+3,小众平庸·短篇/剧场版,5,Computer Obaachan,Music,5.13,161,1.0,0.06753047267476811

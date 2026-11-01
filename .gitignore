@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# 原始数据不入库（约 100 MB，见 README 第 2 节的获取方式）
+data/
+*.csv.bak

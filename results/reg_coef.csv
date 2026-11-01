@@ -1,0 +1,10 @@
+feature,coef
+log_members,0.5723
+episodes_f,0.0605
+genre_cnt,0.1235
+type_TV,0.0454
+type_OVA,-0.0068
+type_Movie,0.0235
+type_Special,0.0299
+type_ONA,-0.1085
+type_Music,-0.0665
